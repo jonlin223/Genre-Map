@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 from typing import Dict, List, Set
+import utils
 
 def scrape_album(album_id: int) -> Dict[str, List[int]]:
     """
@@ -26,22 +27,12 @@ def scrape_album(album_id: int) -> Dict[str, List[int]]:
 
         if secondary:
             # print(f"{result.get('href')} is a subgenre")
-            sub_genres.append(genre_id_from_href(href))
+            sub_genres.append(utils.genre_id_from_href(href))
         else:
             # print(f"{result.get('href')} is a genre")
-            main_genres.append(genre_id_from_href(href))
+            main_genres.append(utils.genre_id_from_href(href))
     
     return {'main_genres': main_genres, 'sub_genres': sub_genres}
-
-def genre_id_from_href(href: str) -> int:
-    """
-    Extract a genre_id from an AOTY href. For example, input of '/genre/38-synthpop/'
-    produces 38.
-    """
-
-    genre = href.lstrip('/genre/').rstrip('/')
-    genre_id = genre.split('-')[0]
-    return genre_id
 
 def scrape_albums(album_set: Set, url: str):
     """
@@ -62,7 +53,7 @@ def scrape_albums(album_set: Set, url: str):
 
     for result in results:
         href = result.get('href')
-        album_id = album_id_from_href(href)
+        album_id = utils.album_id_from_href(href)
 
         if album_id not in album_set:
             album = scrape_album(album_id)
@@ -70,15 +61,6 @@ def scrape_albums(album_set: Set, url: str):
             album_set.add(album_id)
     
     return albums
-
-def album_id_from_href(href: str) -> int:
-    """
-    Extract an album_id from an AOTY href. For example, input of '/album/1012480-magdalena-bay-imaginal-disk.php'
-    produces 1012480.
-    """
-
-    album_id = int(href.lstrip('/album/').split('-')[0])
-    return album_id
 
 if __name__ == "__main__":
     album_set = set()

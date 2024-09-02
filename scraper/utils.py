@@ -5,7 +5,7 @@ def genre_id_from_href(href: str) -> int:
     """
 
     genre = href.lstrip('/genre/').rstrip('/')
-    genre_id = genre.split('-')[0]
+    genre_id = int(genre.split('-')[0])
     return genre_id
 
 def album_id_from_href(href: str) -> int:
@@ -16,3 +16,13 @@ def album_id_from_href(href: str) -> int:
 
     album_id = int(href.lstrip('/album/').split('-')[0])
     return album_id
+
+def genre_name_from_href(href: str) -> str:
+    """
+    Extract genre name from an AOTY href. For example, input of '/genre/38-synthpop/'
+    produces synthpop. This genre name is formatted for web links.
+    """
+
+    genre = href.lstrip('/genre/').rstrip('/')
+    genre_name = '-'.join(genre.split('-')[1:])
+    return genre_name

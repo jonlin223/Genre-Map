@@ -1,0 +1,3318 @@
+{
+    "1": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/indie-rock/",
+        "name": "Indie Rock"
+    },
+    "2": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/alternative-rock/",
+        "name": "Alternative Rock"
+    },
+    "3": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hip-hop/",
+        "name": "Hip Hop"
+    },
+    "4": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/indie-pop/",
+        "name": "Indie Pop"
+    },
+    "5": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/folk/",
+        "name": "Folk"
+    },
+    "6": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/electronic/",
+        "name": "Electronic"
+    },
+    "7": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rock/",
+        "name": "Rock"
+    },
+    "8": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/experimental-rock/",
+        "name": "Experimental Rock"
+    },
+    "9": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/experimental/",
+        "name": "Experimental"
+    },
+    "11": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/garage-rock/",
+        "name": "Garage Rock"
+    },
+    "12": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dubstep/",
+        "name": "Dubstep"
+    },
+    "13": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/noise-rock/",
+        "name": "Noise Rock"
+    },
+    "14": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/folk-rock/",
+        "name": "Folk Rock"
+    },
+    "15": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pop/",
+        "name": "Pop"
+    },
+    "16": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/indie-folk/",
+        "name": "Indie Folk"
+    },
+    "17": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/alt-country/",
+        "name": "Alt-Country"
+    },
+    "18": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/country/",
+        "name": "Country"
+    },
+    "19": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/soul/",
+        "name": "Soul"
+    },
+    "20": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/drone/",
+        "name": "Drone"
+    },
+    "22": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/r-and-b/",
+        "name": "R&B"
+    },
+    "23": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/post-punk/",
+        "name": "Post-Punk"
+    },
+    "24": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funk/",
+        "name": "Funk"
+    },
+    "26": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/shoegaze/",
+        "name": "Shoegaze"
+    },
+    "27": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/punk-rock/",
+        "name": "Punk Rock"
+    },
+    "28": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/punk/",
+        "name": "Punk"
+    },
+    "29": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/post-rock/",
+        "name": "Post-Rock"
+    },
+    "30": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/psychedelic-rock/",
+        "name": "Psychedelic Rock"
+    },
+    "31": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/electropop/",
+        "name": "Electropop"
+    },
+    "32": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/new-wave/",
+        "name": "New Wave"
+    },
+    "33": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/trip-hop/",
+        "name": "Trip Hop"
+    },
+    "34": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ambient/",
+        "name": "Ambient"
+    },
+    "35": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jazz/",
+        "name": "Jazz"
+    },
+    "36": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chillwave/",
+        "name": "Chillwave"
+    },
+    "37": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/singer-songwriter/",
+        "name": "Singer-Songwriter"
+    },
+    "38": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/synthpop/",
+        "name": "Synthpop"
+    },
+    "39": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dream-pop/",
+        "name": "Dream Pop"
+    },
+    "40": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/metal/",
+        "name": "Metal"
+    },
+    "41": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-rock/",
+        "name": "Progressive Rock"
+    },
+    "42": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sludge-metal/",
+        "name": "Sludge Metal"
+    },
+    "43": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/blues/",
+        "name": "Blues"
+    },
+    "45": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/southern-rock/",
+        "name": "Southern Rock"
+    },
+    "46": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/psychedelia/",
+        "name": "Psychedelia"
+    },
+    "47": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/idm/",
+        "name": "IDM"
+    },
+    "48": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nu-metal/",
+        "name": "Nu Metal"
+    },
+    "49": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hardcore-punk/",
+        "name": "Hardcore Punk"
+    },
+    "50": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jam-band/",
+        "name": "Jam Band"
+    },
+    "51": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/doom-metal/",
+        "name": "Doom Metal"
+    },
+    "52": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/industrial/",
+        "name": "Industrial"
+    },
+    "53": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/house/",
+        "name": "House"
+    },
+    "54": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-metal/",
+        "name": "Progressive Metal"
+    },
+    "55": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/stoner-metal/",
+        "name": "Stoner Metal"
+    },
+    "56": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/power-pop/",
+        "name": "Power Pop"
+    },
+    "57": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/alternative-metal/",
+        "name": "Alternative Metal"
+    },
+    "58": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hard-rock/",
+        "name": "Hard Rock"
+    },
+    "59": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/metalcore/",
+        "name": "Metalcore"
+    },
+    "60": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/noise-pop/",
+        "name": "Noise Pop"
+    },
+    "61": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/grime/",
+        "name": "Grime"
+    },
+    "62": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/black-metal/",
+        "name": "Black Metal"
+    },
+    "63": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chamber-pop/",
+        "name": "Chamber Pop"
+    },
+    "64": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/comedy/",
+        "name": "Comedy"
+    },
+    "65": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/techno/",
+        "name": "Techno"
+    },
+    "66": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/blues-rock/",
+        "name": "Blues Rock"
+    },
+    "67": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/witch-house/",
+        "name": "Witch House"
+    },
+    "68": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/post-hardcore/",
+        "name": "Post-Hardcore"
+    },
+    "69": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/psychedelic-pop/",
+        "name": "Psychedelic Pop"
+    },
+    "70": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/americana/",
+        "name": "Americana"
+    },
+    "72": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/glam-rock/",
+        "name": "Glam Rock"
+    },
+    "73": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dance-punk/",
+        "name": "Dance-Punk"
+    },
+    "74": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dub/",
+        "name": "Dub"
+    },
+    "75": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/juke/",
+        "name": "Juke"
+    },
+    "76": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bluegrass/",
+        "name": "Bluegrass"
+    },
+    "77": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rockabilly/",
+        "name": "Rockabilly"
+    },
+    "78": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/post-metal/",
+        "name": "Post-Metal"
+    },
+    "79": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/britpop/",
+        "name": "Britpop"
+    },
+    "80": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dancehall/",
+        "name": "Dancehall"
+    },
+    "81": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/reggae/",
+        "name": "Reggae"
+    },
+    "82": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dub-techno/",
+        "name": "Dub Techno"
+    },
+    "83": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mashup/",
+        "name": "Mashup"
+    },
+    "84": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/vaporwave/",
+        "name": "Vaporwave"
+    },
+    "85": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/electro/",
+        "name": "Electro"
+    },
+    "86": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/grunge/",
+        "name": "Grunge"
+    },
+    "87": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/noise/",
+        "name": "Noise"
+    },
+    "88": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/thrash-metal/",
+        "name": "Thrash Metal"
+    },
+    "89": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/death-metal/",
+        "name": "Death Metal"
+    },
+    "90": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/melodic-death-metal/",
+        "name": "Melodic Death Metal"
+    },
+    "91": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dark-ambient/",
+        "name": "Dark Ambient"
+    },
+    "92": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/garage-punk/",
+        "name": "Garage Punk"
+    },
+    "93": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/heavy-metal/",
+        "name": "Heavy Metal"
+    },
+    "94": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/math-rock/",
+        "name": "Math Rock"
+    },
+    "95": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/roots-reggae/",
+        "name": "Roots Reggae"
+    },
+    "97": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/krautrock/",
+        "name": "Krautrock"
+    },
+    "98": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/space-rock/",
+        "name": "Space Rock"
+    },
+    "99": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/art-rock/",
+        "name": "Art Rock"
+    },
+    "100": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/art-punk/",
+        "name": "Art Punk"
+    },
+    "101": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/surf-rock/",
+        "name": "Surf Rock"
+    },
+    "102": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/future-garage/",
+        "name": "Future Garage"
+    },
+    "103": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pop-rock/",
+        "name": "Pop Rock"
+    },
+    "104": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/folktronica/",
+        "name": "Folktronica"
+    },
+    "105": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/gothic-metal/",
+        "name": "Gothic Metal"
+    },
+    "106": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/industrial-rock/",
+        "name": "Industrial Rock"
+    },
+    "107": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/industrial-metal/",
+        "name": "Industrial Metal"
+    },
+    "109": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jazz-fusion/",
+        "name": "Jazz Fusion"
+    },
+    "110": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ska/",
+        "name": "Ska"
+    },
+    "112": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/acid-jazz/",
+        "name": "Acid Jazz"
+    },
+    "113": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/turntablism/",
+        "name": "Turntablism"
+    },
+    "114": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/alternative-dance/",
+        "name": "Alternative Dance"
+    },
+    "116": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mathcore/",
+        "name": "Mathcore"
+    },
+    "117": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/french-house/",
+        "name": "French House"
+    },
+    "118": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/disco/",
+        "name": "Disco"
+    },
+    "119": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/slowcore/",
+        "name": "Slowcore"
+    },
+    "120": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/power-metal/",
+        "name": "Power Metal"
+    },
+    "121": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pagan-metal/",
+        "name": "Pagan Metal"
+    },
+    "122": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/afrobeat/",
+        "name": "Afrobeat"
+    },
+    "124": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/no-wave/",
+        "name": "No Wave"
+    },
+    "125": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/surf-pop/",
+        "name": "Surf Pop"
+    },
+    "126": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/stoner-rock/",
+        "name": "Stoner Rock"
+    },
+    "127": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/freak-folk/",
+        "name": "Freak Folk"
+    },
+    "128": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/downtempo/",
+        "name": "Downtempo"
+    },
+    "129": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/glitch/",
+        "name": "Glitch"
+    },
+    "130": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/modern-classical/",
+        "name": "Modern Classical"
+    },
+    "131": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neo-soul/",
+        "name": "Neo-Soul"
+    },
+    "132": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dance/",
+        "name": "Dance"
+    },
+    "133": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/emo/",
+        "name": "Emo"
+    },
+    "134": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mpb/",
+        "name": "MPB"
+    },
+    "135": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/groove-metal/",
+        "name": "Groove Metal"
+    },
+    "136": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/baroque-pop/",
+        "name": "Baroque Pop"
+    },
+    "137": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/acid-house/",
+        "name": "Acid House"
+    },
+    "138": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/deathcore/",
+        "name": "Deathcore"
+    },
+    "139": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/protopunk/",
+        "name": "Proto-punk"
+    },
+    "140": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/twee-pop/",
+        "name": "Twee Pop"
+    },
+    "141": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/art-pop/",
+        "name": "Art Pop"
+    },
+    "142": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/latin-rock/",
+        "name": "Latin Rock"
+    },
+    "143": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/classical/",
+        "name": "Classical"
+    },
+    "144": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/gospel/",
+        "name": "Gospel"
+    },
+    "145": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/folk-punk/",
+        "name": "Folk Punk"
+    },
+    "146": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/grindcore/",
+        "name": "Grindcore"
+    },
+    "147": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/drum-and-bass/",
+        "name": "Drum and Bass"
+    },
+    "149": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pop-punk/",
+        "name": "Pop Punk"
+    },
+    "150": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/glitch-hop/",
+        "name": "Glitch Hop"
+    },
+    "151": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/roots-rock/",
+        "name": "Roots Rock"
+    },
+    "152": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/avant-garde-metal/",
+        "name": "Avant-Garde Metal"
+    },
+    "153": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/trance/",
+        "name": "Trance"
+    },
+    "154": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/folk-metal/",
+        "name": "Folk Metal"
+    },
+    "155": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neo-psychedelia/",
+        "name": "Neo-Psychedelia"
+    },
+    "156": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/indietronica/",
+        "name": "Indietronica"
+    },
+    "157": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/gothic-rock/",
+        "name": "Gothic Rock"
+    },
+    "158": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/deep-house/",
+        "name": "Deep House"
+    },
+    "159": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-house/",
+        "name": "Progressive House"
+    },
+    "160": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ambient-techno/",
+        "name": "Ambient Techno"
+    },
+    "161": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/footwork/",
+        "name": "Footwork"
+    },
+    "162": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jangle-pop/",
+        "name": "Jangle Pop"
+    },
+    "164": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/celtic-punk/",
+        "name": "Celtic Punk"
+    },
+    "165": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/melodic-black-metal/",
+        "name": "Melodic Black Metal"
+    },
+    "166": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/christmas/",
+        "name": "Christmas"
+    },
+    "167": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ska-punk/",
+        "name": "Ska Punk"
+    },
+    "168": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/new-age/",
+        "name": "New Age"
+    },
+    "169": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/latin-pop/",
+        "name": "Latin Pop"
+    },
+    "170": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/synthpunk/",
+        "name": "Synth Punk"
+    },
+    "171": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/atmospheric-black-metal/",
+        "name": "Atmospheric Black Metal"
+    },
+    "172": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/darkwave/",
+        "name": "Darkwave"
+    },
+    "173": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/avant-garde-jazz/",
+        "name": "Avant-Garde Jazz"
+    },
+    "174": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dance-pop/",
+        "name": "Dance-Pop"
+    },
+    "175": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/uk-bass/",
+        "name": "UK Bass"
+    },
+    "176": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/piano-rock/",
+        "name": "Piano Rock"
+    },
+    "177": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rock-roll/",
+        "name": "Rock & Roll"
+    },
+    "178": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/vocal-jazz/",
+        "name": "Vocal Jazz"
+    },
+    "179": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/drone-metal/",
+        "name": "Drone Metal"
+    },
+    "180": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rap-rock/",
+        "name": "Rap Rock"
+    },
+    "181": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/electroclash/",
+        "name": "Electroclash"
+    },
+    "182": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/acoustic-rock/",
+        "name": "Acoustic Rock"
+    },
+    "183": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/big-beat/",
+        "name": "Big Beat"
+    },
+    "184": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/soft-rock/",
+        "name": "Soft Rock"
+    },
+    "185": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nu-disco/",
+        "name": "Nu-Disco"
+    },
+    "186": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/avant-folk/",
+        "name": "Avant-Folk"
+    },
+    "187": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/death-industrial/",
+        "name": "Death Industrial"
+    },
+    "188": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/k-pop/",
+        "name": "K-Pop"
+    },
+    "189": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nu-jazz/",
+        "name": "Nu Jazz"
+    },
+    "190": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/electro-house/",
+        "name": "Electro House"
+    },
+    "191": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/glitch-pop/",
+        "name": "Glitch Pop"
+    },
+    "192": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/alternative-r-b/",
+        "name": "Alternative R&B"
+    },
+    "193": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/psychedelic-folk/",
+        "name": "Psychedelic Folk"
+    },
+    "194": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sophisti-pop/",
+        "name": "Sophisti-Pop"
+    },
+    "195": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/synthwave/",
+        "name": "Synthwave"
+    },
+    "196": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/trap/",
+        "name": "Trap [EDM]"
+    },
+    "197": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/electro-disco/",
+        "name": "Electro-Disco"
+    },
+    "198": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/wonky/",
+        "name": "Wonky"
+    },
+    "199": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/microhouse/",
+        "name": "Microhouse"
+    },
+    "200": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-pop/",
+        "name": "Progressive Pop"
+    },
+    "201": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ambient-pop/",
+        "name": "Ambient Pop"
+    },
+    "202": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/minimal-techno/",
+        "name": "Minimal Techno"
+    },
+    "203": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/traditional-pop/",
+        "name": "Traditional Pop"
+    },
+    "204": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/adult-contemporary/",
+        "name": "Adult Contemporary"
+    },
+    "205": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/free-improvisation/",
+        "name": "Free Improvisation"
+    },
+    "206": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/heartland-rock/",
+        "name": "Heartland Rock"
+    },
+    "207": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/country-rock/",
+        "name": "Country Rock"
+    },
+    "208": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hypnagogic-pop/",
+        "name": "Hypnagogic Pop"
+    },
+    "209": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/psychedelic-soul/",
+        "name": "Psychedelic Soul"
+    },
+    "210": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tech-house/",
+        "name": "Tech House"
+    },
+    "211": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/synth-funk/",
+        "name": "Synth Funk"
+    },
+    "212": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pop-rap/",
+        "name": "Pop Rap"
+    },
+    "213": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/trap-rap/",
+        "name": "Trap"
+    },
+    "214": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/experimental-hip-hop/",
+        "name": "Experimental Hip Hop"
+    },
+    "215": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pop-soul/",
+        "name": "Pop Soul"
+    },
+    "216": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/country-pop/",
+        "name": "Country Pop"
+    },
+    "217": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/blackgaze/",
+        "name": "Blackgaze"
+    },
+    "218": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/post-minimalism/",
+        "name": "Post-Minimalism"
+    },
+    "219": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/post-industrial/",
+        "name": "Post-Industrial"
+    },
+    "220": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/post-grunge/",
+        "name": "Post-Grunge"
+    },
+    "221": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-electronic/",
+        "name": "Progressive Electronic"
+    },
+    "222": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/standards/",
+        "name": "Standards"
+    },
+    "223": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/french-pop/",
+        "name": "French Pop"
+    },
+    "224": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ethereal-wave/",
+        "name": "Ethereal Wave"
+    },
+    "225": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chamber-folk/",
+        "name": "Chamber Folk"
+    },
+    "226": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sunshine-pop/",
+        "name": "Sunshine Pop"
+    },
+    "227": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/post-punk-revival/",
+        "name": "Post-Punk Revival"
+    },
+    "228": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sound-collage/",
+        "name": "Sound Collage"
+    },
+    "229": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jazz-rock/",
+        "name": "Jazz-Rock"
+    },
+    "230": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/j-pop/",
+        "name": "J-Pop"
+    },
+    "231": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/plunderphonics/",
+        "name": "Plunderphonics"
+    },
+    "232": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funk-metal/",
+        "name": "Funk Metal"
+    },
+    "233": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funk-rock/",
+        "name": "Funk Rock"
+    },
+    "234": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/abstract-hip-hop/",
+        "name": "Abstract Hip Hop"
+    },
+    "235": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/heavy-psych/",
+        "name": "Heavy Psych"
+    },
+    "236": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/electroacoustic/",
+        "name": "Electroacoustic"
+    },
+    "237": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/screamo/",
+        "name": "Screamo"
+    },
+    "238": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/industrial-techno/",
+        "name": "Industrial Techno"
+    },
+    "239": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/latin-alternative/",
+        "name": "Latin Alternative"
+    },
+    "240": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dark-jazz/",
+        "name": "Dark Jazz"
+    },
+    "241": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neofolk/",
+        "name": "Neofolk"
+    },
+    "242": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/psychobilly/",
+        "name": "Psychobilly"
+    },
+    "243": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neoclassical-darkwave/",
+        "name": "Neoclassical Darkwave"
+    },
+    "244": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hip-house/",
+        "name": "Hip House"
+    },
+    "245": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/minimal-wave/",
+        "name": "Minimal Wave"
+    },
+    "246": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/american-primitivism/",
+        "name": "American Primitivism"
+    },
+    "247": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/folk-pop/",
+        "name": "Folk Pop"
+    },
+    "248": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/deconstructed-club/",
+        "name": "Deconstructed Club"
+    },
+    "249": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/electro-industrial/",
+        "name": "Electro-Industrial"
+    },
+    "250": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/blue-eyed-soul/",
+        "name": "Blue-Eyed Soul"
+    },
+    "251": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/yacht-rock/",
+        "name": "Yacht Rock"
+    },
+    "252": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/minimalism/",
+        "name": "Minimalism"
+    },
+    "253": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/minimal-synth/",
+        "name": "Minimal Synth"
+    },
+    "254": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/musique-concrete/",
+        "name": "Musique concr\u00e8te"
+    },
+    "255": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ye-ye/",
+        "name": "Y\u00e9-y\u00e9"
+    },
+    "256": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/outsider-house/",
+        "name": "Outsider House"
+    },
+    "257": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/instrumental-hip-hop/",
+        "name": "Instrumental Hip Hop"
+    },
+    "258": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bubblegum-bass/",
+        "name": "Bubblegum Bass"
+    },
+    "259": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/reggaeton/",
+        "name": "Reggaeton"
+    },
+    "260": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/spoken-word/",
+        "name": "Spoken Word"
+    },
+    "261": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/melodic-hardcore/",
+        "name": "Melodic Hardcore"
+    },
+    "262": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/comedy-rap/",
+        "name": "Comedy Rap"
+    },
+    "263": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/edm/",
+        "name": "Electronic Dance Music"
+    },
+    "264": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bossa-nova/",
+        "name": "Bossa Nova"
+    },
+    "265": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pop-reggae/",
+        "name": "Pop Reggae"
+    },
+    "266": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/glam-metal/",
+        "name": "Glam Metal"
+    },
+    "267": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/soul-jazz/",
+        "name": "Soul Jazz"
+    },
+    "268": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/afrobeats/",
+        "name": "Afrobeats"
+    },
+    "269": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/future-bass/",
+        "name": "Future Bass"
+    },
+    "270": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tishoumaren/",
+        "name": "Tishoumaren"
+    },
+    "271": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/khyal/",
+        "name": "Khyal"
+    },
+    "272": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/childrens-music/",
+        "name": "Children's Music"
+    },
+    "273": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/city-pop/",
+        "name": "City Pop"
+    },
+    "274": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tropical-house/",
+        "name": "Tropical House"
+    },
+    "275": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/acid-techno/",
+        "name": "Acid Techno"
+    },
+    "276": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/breakbeat/",
+        "name": "Breakbeat"
+    },
+    "277": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/uk-garage/",
+        "name": "UK Garage"
+    },
+    "278": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ambient-house/",
+        "name": "Ambient House"
+    },
+    "279": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/symphonic-metal/",
+        "name": "Symphonic Metal"
+    },
+    "280": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rock-opera/",
+        "name": "Rock Opera"
+    },
+    "281": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/power-electronics/",
+        "name": "Power Electronics"
+    },
+    "282": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/future-funk/",
+        "name": "Future Funk"
+    },
+    "283": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/digital-hardcore/",
+        "name": "Digital Hardcore"
+    },
+    "284": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/skate-punk/",
+        "name": "Skate Punk"
+    },
+    "285": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/country-soul/",
+        "name": "Country Soul"
+    },
+    "286": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/aor/",
+        "name": "AOR"
+    },
+    "287": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tribal-ambient/",
+        "name": "Tribal Ambient"
+    },
+    "288": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jazz-funk/",
+        "name": "Jazz-Funk"
+    },
+    "289": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/drill/",
+        "name": "Drill"
+    },
+    "290": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/uk-hip-hop/",
+        "name": "UK Hip Hop"
+    },
+    "291": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/djent/",
+        "name": "Djent"
+    },
+    "292": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cloud-rap/",
+        "name": "Cloud Rap"
+    },
+    "293": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dungeon-synth/",
+        "name": "Dungeon Synth"
+    },
+    "294": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/crossover-thrash/",
+        "name": "Crossover Thrash"
+    },
+    "295": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/flamenco-nuevo/",
+        "name": "Flamenco nuevo"
+    },
+    "296": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hardcore-breaks/",
+        "name": "Hardcore Breaks"
+    },
+    "297": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/latin-electronic/",
+        "name": "Latin Electronic"
+    },
+    "298": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/drill-and-bass/",
+        "name": "Drill and Bass"
+    },
+    "299": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tropicalia/",
+        "name": "Tropic\u00e1lia"
+    },
+    "300": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/trap-metal/",
+        "name": "Trap Metal"
+    },
+    "301": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/field-recordings/",
+        "name": "Field Recordings"
+    },
+    "302": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/musical-parody/",
+        "name": "Musical Parody"
+    },
+    "303": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/comedy-rock/",
+        "name": "Comedy Rock"
+    },
+    "304": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/horrorcore/",
+        "name": "Horrorcore"
+    },
+    "305": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/boom-bap/",
+        "name": "Boom Bap"
+    },
+    "306": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/emo-rap/",
+        "name": "Emo Rap"
+    },
+    "307": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/brutal-death-metal/",
+        "name": "Brutal Death Metal"
+    },
+    "308": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/industrial-hip-hop/",
+        "name": "Industrial Hip Hop"
+    },
+    "309": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/technical-death-metal/",
+        "name": "Technical Death Metal"
+    },
+    "310": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/free-jazz/",
+        "name": "Free Jazz"
+    },
+    "311": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/space-ambient/",
+        "name": "Space Ambient"
+    },
+    "312": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/gangsta-rap/",
+        "name": "Gangsta Rap"
+    },
+    "313": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bedroom-pop/",
+        "name": "Bedroom Pop"
+    },
+    "314": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hardcore-hip-hop/",
+        "name": "Hardcore Hip Hop"
+    },
+    "315": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mariachi/",
+        "name": "Mariachi"
+    },
+    "316": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/celtic-folk/",
+        "name": "Celtic Folk"
+    },
+    "317": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/conscious-hip-hop/",
+        "name": "Conscious Hip Hop"
+    },
+    "318": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/midwest-emo/",
+        "name": "Midwest Emo"
+    },
+    "319": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/harsh-noise/",
+        "name": "Harsh Noise"
+    },
+    "320": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/symphonic-prog/",
+        "name": "Symphonic Prog"
+    },
+    "321": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/canterbury-scene/",
+        "name": "Canterbury Scene"
+    },
+    "322": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/free-folk/",
+        "name": "Free Folk"
+    },
+    "323": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-folk/",
+        "name": "Progressive Folk"
+    },
+    "324": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sertanejo/",
+        "name": "Sertanejo"
+    },
+    "325": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/samba/",
+        "name": "Samba"
+    },
+    "326": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jazz-rap/",
+        "name": "Jazz Rap"
+    },
+    "327": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chiptune/",
+        "name": "Chiptune"
+    },
+    "328": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dark-folk/",
+        "name": "Dark Folk"
+    },
+    "329": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/new-jack-swing/",
+        "name": "New Jack Swing"
+    },
+    "330": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ambient-dub/",
+        "name": "Ambient Dub"
+    },
+    "331": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/emo-pop/",
+        "name": "Emo-Pop"
+    },
+    "332": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hyperpop/",
+        "name": "Hyperpop"
+    },
+    "333": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/smooth-soul/",
+        "name": "Smooth Soul"
+    },
+    "334": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/beatdown-hardcore/",
+        "name": "Beatdown Hardcore"
+    },
+    "335": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/powerviolence/",
+        "name": "Powerviolence"
+    },
+    "336": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hard-bop/",
+        "name": "Hard Bop"
+    },
+    "337": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/flamenco-pop/",
+        "name": "Flamenco Pop"
+    },
+    "338": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/futurepop/",
+        "name": "Futurepop"
+    },
+    "339": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/crust-punk/",
+        "name": "Crust Punk"
+    },
+    "340": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/opera/",
+        "name": "Opera"
+    },
+    "341": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funeral-doom-metal/",
+        "name": "Funeral Doom Metal"
+    },
+    "342": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/epic-doom-metal/",
+        "name": "Epic Doom Metal"
+    },
+    "343": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/death-doom-metal/",
+        "name": "Death Doom Metal"
+    },
+    "344": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/deathgrind/",
+        "name": "Deathgrind"
+    },
+    "345": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/gabber/",
+        "name": "Gabber"
+    },
+    "346": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/thrashcore/",
+        "name": "Thrashcore"
+    },
+    "347": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/speedcore/",
+        "name": "Speedcore"
+    },
+    "348": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nwobhm/",
+        "name": "NWOBHM"
+    },
+    "349": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/speed-metal/",
+        "name": "Speed Metal"
+    },
+    "350": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/slam-death-metal/",
+        "name": "Slam Death Metal"
+    },
+    "351": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/depressive-black-metal/",
+        "name": "Depressive Black Metal"
+    },
+    "352": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/us-power-metal/",
+        "name": "US Power Metal"
+    },
+    "353": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/deathrock/",
+        "name": "Deathrock"
+    },
+    "354": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/anarcho-punk/",
+        "name": "Anarcho-Punk"
+    },
+    "355": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/oi/",
+        "name": "Oi!"
+    },
+    "356": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/surf-punk/",
+        "name": "Surf Punk"
+    },
+    "357": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hexd/",
+        "name": "HexD"
+    },
+    "358": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/power-noise/",
+        "name": "Power Noise"
+    },
+    "359": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ritual-ambient/",
+        "name": "Ritual Ambient"
+    },
+    "361": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/western-classical-music/",
+        "name": "Western Classical Music"
+    },
+    "362": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/breakcore/",
+        "name": "Breakcore"
+    },
+    "363": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/goregrind/",
+        "name": "Goregrind"
+    },
+    "364": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/war-metal/",
+        "name": "War Metal"
+    },
+    "365": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jungle/",
+        "name": "Jungle"
+    },
+    "366": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mandopop/",
+        "name": "Mandopop"
+    },
+    "367": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/atmospheric-sludge-metal/",
+        "name": "Atmospheric Sludge Metal"
+    },
+    "368": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/brostep/",
+        "name": "Brostep"
+    },
+    "369": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/avant-prog/",
+        "name": "Avant-Prog"
+    },
+    "370": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/uk-drill/",
+        "name": "UK Drill"
+    },
+    "371": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rap-metal/",
+        "name": "Rap Metal"
+    },
+    "372": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cumbia/",
+        "name": "Cumbia"
+    },
+    "373": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ebm/",
+        "name": "EBM"
+    },
+    "374": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/spiritual-jazz/",
+        "name": "Spiritual Jazz"
+    },
+    "375": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/southern-soul/",
+        "name": "Southern Soul"
+    },
+    "376": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/horror-synth/",
+        "name": "Horror Synth"
+    },
+    "377": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tape-music/",
+        "name": "Tape Music"
+    },
+    "378": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/turntable-music/",
+        "name": "Turntable Music"
+    },
+    "379": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/emoviolence/",
+        "name": "Emoviolence"
+    },
+    "380": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hardcore-edm/",
+        "name": "Hardcore [EDM]"
+    },
+    "381": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/g-funk/",
+        "name": "G-Funk"
+    },
+    "382": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chamber-jazz/",
+        "name": "Chamber Jazz"
+    },
+    "383": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ecm-style-jazz/",
+        "name": "ECM Style Jazz"
+    },
+    "384": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/calypso/",
+        "name": "Calypso"
+    },
+    "385": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/big-band/",
+        "name": "Big Band"
+    },
+    "386": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/afro-cuban-jazz/",
+        "name": "Afro-Cuban Jazz"
+    },
+    "387": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/exotica/",
+        "name": "Exotica"
+    },
+    "388": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/show-tunes/",
+        "name": "Show Tunes"
+    },
+    "389": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/west-coast-hip-hop/",
+        "name": "West Coast Hip Hop"
+    },
+    "390": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/east-coast-hip-hop/",
+        "name": "East Coast Hip Hop"
+    },
+    "391": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/southern-hip-hop/",
+        "name": "Southern Hip Hop"
+    },
+    "392": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sea-shanties/",
+        "name": "Sea Shanties"
+    },
+    "393": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/space-age-pop/",
+        "name": "Space Age Pop"
+    },
+    "394": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/appalachian-folk-music/",
+        "name": "Appalachian Folk Music"
+    },
+    "395": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/old-time/",
+        "name": "Old-Time"
+    },
+    "396": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/coldwave/",
+        "name": "Coldwave"
+    },
+    "397": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/christian-rock/",
+        "name": "Christian Rock"
+    },
+    "398": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cool-jazz/",
+        "name": "Cool Jazz"
+    },
+    "399": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/eai/",
+        "name": "EAI"
+    },
+    "400": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/post-bop/",
+        "name": "Post-Bop"
+    },
+    "401": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bebop/",
+        "name": "Bebop"
+    },
+    "402": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bitpop/",
+        "name": "Bitpop"
+    },
+    "403": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/lounge/",
+        "name": "Lounge"
+    },
+    "404": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/easy-listening/",
+        "name": "Easy Listening"
+    },
+    "405": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/japanese-hip-hop/",
+        "name": "Japanese Hip Hop"
+    },
+    "406": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/eurodance/",
+        "name": "Eurodance"
+    },
+    "407": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/gamelan/",
+        "name": "Gamelan"
+    },
+    "408": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/noisecore/",
+        "name": "Noisecore"
+    },
+    "409": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/symphonic-black-metal/",
+        "name": "Symphonic Black Metal"
+    },
+    "410": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-country/",
+        "name": "Progressive Country"
+    },
+    "411": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/outlaw-country/",
+        "name": "Outlaw Country"
+    },
+    "412": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/latin-jazz/",
+        "name": "Latin Jazz"
+    },
+    "413": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/smooth-jazz/",
+        "name": "Smooth Jazz"
+    },
+    "414": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jazz-pop/",
+        "name": "Jazz Pop"
+    },
+    "415": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mambo/",
+        "name": "Mambo"
+    },
+    "416": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/emocore/",
+        "name": "Emocore"
+    },
+    "417": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sequencer-tracker/",
+        "name": "Sequencer & Tracker"
+    },
+    "418": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/flamenco/",
+        "name": "Flamenco"
+    },
+    "419": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/salsa/",
+        "name": "Salsa"
+    },
+    "420": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/christian-hip-hop/",
+        "name": "Christian Hip Hop"
+    },
+    "421": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/french-hip-hop/",
+        "name": "French Hip Hop"
+    },
+    "422": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/lo-fi-hip-hop/",
+        "name": "Lo-Fi Hip Hop"
+    },
+    "423": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/memphis-rap/",
+        "name": "Memphis Rap"
+    },
+    "424": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/miami-bass/",
+        "name": "Miami Bass"
+    },
+    "425": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/latin-rap/",
+        "name": "Latin Rap"
+    },
+    "426": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chopped-and-screwed/",
+        "name": "Chopped and Screwed"
+    },
+    "427": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chamber-music/",
+        "name": "Chamber Music"
+    },
+    "428": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cinematic-classical/",
+        "name": "Cinematic Classical"
+    },
+    "429": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/third-stream/",
+        "name": "Third Stream"
+    },
+    "430": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/classical-crossover/",
+        "name": "Classical Crossover"
+    },
+    "431": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/baroque-music/",
+        "name": "Baroque Music"
+    },
+    "432": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/melodic-metalcore/",
+        "name": "Melodic Metalcore"
+    },
+    "433": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/forro-eletronico/",
+        "name": "Forr\u00f3 eletr\u00f4nico"
+    },
+    "434": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/brega-calypso/",
+        "name": "Brega calypso"
+    },
+    "435": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/afro-funk/",
+        "name": "Afro-Funk"
+    },
+    "436": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/anti-folk/",
+        "name": "Anti-Folk"
+    },
+    "437": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/europop/",
+        "name": "Europop"
+    },
+    "438": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/plugg/",
+        "name": "Plugg"
+    },
+    "439": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/atmospheric-drum-and-bass/",
+        "name": "Atmospheric Drum and Bass"
+    },
+    "440": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/berlin-school/",
+        "name": "Berlin School"
+    },
+    "441": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/alt-pop/",
+        "name": "Alt-Pop"
+    },
+    "442": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-trance/",
+        "name": "Progressive Trance"
+    },
+    "443": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/detroit-techno/",
+        "name": "Detroit Techno"
+    },
+    "444": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chanson/",
+        "name": "Chanson"
+    },
+    "445": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/boy-band/",
+        "name": "Boy Band"
+    },
+    "446": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/teen-pop/",
+        "name": "Teen Pop"
+    },
+    "447": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/riot-grrrl/",
+        "name": "Riot Grrrl"
+    },
+    "448": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/2-step/",
+        "name": "2-Step"
+    },
+    "449": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/uk-funky/",
+        "name": "UK Funky"
+    },
+    "450": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tribal-house/",
+        "name": "Tribal House"
+    },
+    "451": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/modal-jazz/",
+        "name": "Modal Jazz"
+    },
+    "452": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/swing/",
+        "name": "Swing"
+    },
+    "453": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ethio-jazz/",
+        "name": "Ethio-Jazz"
+    },
+    "454": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/slacker-rock/",
+        "name": "Slacker Rock"
+    },
+    "455": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/flamenco-jazz/",
+        "name": "Flamenco Jazz"
+    },
+    "456": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chicago-house/",
+        "name": "Chicago House"
+    },
+    "457": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tech-trance/",
+        "name": "Tech Trance"
+    },
+    "458": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hard-drum/",
+        "name": "Hard Drum"
+    },
+    "459": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/contemporary-rb/",
+        "name": "Contemporary R&B"
+    },
+    "460": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/balearic-beat/",
+        "name": "Balearic Beat"
+    },
+    "461": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/gqom/",
+        "name": "Gqom"
+    },
+    "462": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/amapiano/",
+        "name": "Amapiano"
+    },
+    "463": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/j-rock/",
+        "name": "J-Rock"
+    },
+    "464": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/crunk/",
+        "name": "Crunk"
+    },
+    "465": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-bluegrass/",
+        "name": "Progressive Bluegrass"
+    },
+    "466": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/illbient/",
+        "name": "Illbient"
+    },
+    "467": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/genge/",
+        "name": "Genge"
+    },
+    "468": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/psytrance/",
+        "name": "Psytrance"
+    },
+    "469": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sound-art/",
+        "name": "Sound Art"
+    },
+    "470": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/onkyo/",
+        "name": "Onkyo"
+    },
+    "471": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hard-trance/",
+        "name": "Hard Trance"
+    },
+    "472": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/big-room-trance/",
+        "name": "Big Room Trance"
+    },
+    "473": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/uplifting-trance/",
+        "name": "Uplifting Trance"
+    },
+    "474": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/modern-creative/",
+        "name": "Modern Creative"
+    },
+    "475": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nature-recordings/",
+        "name": "Nature Recordings"
+    },
+    "476": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/reductionism/",
+        "name": "Reductionism"
+    },
+    "477": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/lowercase/",
+        "name": "Lowercase"
+    },
+    "478": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/raw-black-metal/",
+        "name": "Raw Black Metal"
+    },
+    "479": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/stenchcore/",
+        "name": "Stenchcore"
+    },
+    "480": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hardstyle/",
+        "name": "Hardstyle"
+    },
+    "481": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dark-cabaret/",
+        "name": "Dark Cabaret"
+    },
+    "482": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dixieland/",
+        "name": "Dixieland"
+    },
+    "483": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/black-ambient/",
+        "name": "Black Ambient"
+    },
+    "484": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/symphonic-rock/",
+        "name": "Symphonic Rock"
+    },
+    "485": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ragtime/",
+        "name": "Ragtime"
+    },
+    "486": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/stride/",
+        "name": "Stride"
+    },
+    "487": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/samba-jazz/",
+        "name": "Samba-Jazz"
+    },
+    "488": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/crunkcore/",
+        "name": "Crunkcore"
+    },
+    "489": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/euro-trance/",
+        "name": "Euro-Trance"
+    },
+    "490": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/doo-wop/",
+        "name": "Doo-Wop"
+    },
+    "491": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/brill-building/",
+        "name": "Brill Building"
+    },
+    "492": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jazzstep/",
+        "name": "Jazzstep"
+    },
+    "493": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dreampunk/",
+        "name": "Dreampunk"
+    },
+    "494": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/digicore/",
+        "name": "Digicore"
+    },
+    "495": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funky-house/",
+        "name": "Funky House"
+    },
+    "496": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/broken-beat/",
+        "name": "Broken Beat"
+    },
+    "497": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/breakbeat-hardcore/",
+        "name": "Breakbeat Hardcore"
+    },
+    "498": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neoperreo/",
+        "name": "Neoperreo"
+    },
+    "499": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bro-country/",
+        "name": "Bro-Country"
+    },
+    "500": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funk-carioca/",
+        "name": "Funk carioca"
+    },
+    "501": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/garage-rock-revival/",
+        "name": "Garage Rock Revival"
+    },
+    "502": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/gothic-country/",
+        "name": "Gothic Country"
+    },
+    "503": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/kuduro/",
+        "name": "Kuduro"
+    },
+    "504": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/batida/",
+        "name": "Batida"
+    },
+    "505": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/darksynth/",
+        "name": "Darksynth"
+    },
+    "506": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/halftime/",
+        "name": "Halftime"
+    },
+    "507": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/contemporary-folk/",
+        "name": "Contemporary Folk"
+    },
+    "508": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pagode/",
+        "name": "Pagode"
+    },
+    "509": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pagode-romntico/",
+        "name": "Pagode rom\u00e2ntico"
+    },
+    "510": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/detroit-trap/",
+        "name": "Detroit Trap"
+    },
+    "511": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ghettotech/",
+        "name": "Ghettotech"
+    },
+    "512": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/viking-metal/",
+        "name": "Viking Metal"
+    },
+    "513": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neue-deutsche-harte/",
+        "name": "Neue Deutsche H\u00e4rte"
+    },
+    "514": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/breakstep/",
+        "name": "Breakstep"
+    },
+    "515": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/boogie/",
+        "name": "Boogie"
+    },
+    "516": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/complextro/",
+        "name": "Complextro"
+    },
+    "517": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/big-room-house/",
+        "name": "Big Room House"
+    },
+    "518": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/aggrotech/",
+        "name": "Aggrotech"
+    },
+    "519": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/drumstep/",
+        "name": "Drumstep"
+    },
+    "520": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bubblegum-dance/",
+        "name": "Bubblegum Dance"
+    },
+    "521": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/happy-hardcore/",
+        "name": "Happy Hardcore"
+    },
+    "522": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/baltimore-club/",
+        "name": "Baltimore Club"
+    },
+    "523": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/psybient/",
+        "name": "Psybient"
+    },
+    "524": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/motown-sound/",
+        "name": "Motown Sound"
+    },
+    "525": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/symphony/",
+        "name": "Symphony"
+    },
+    "526": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/orchestral/",
+        "name": "Orchestral"
+    },
+    "527": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rage/",
+        "name": "Rage"
+    },
+    "528": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/romanticism/",
+        "name": "Romanticism"
+    },
+    "529": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/brutal-prog/",
+        "name": "Brutal Prog"
+    },
+    "530": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/new-rave/",
+        "name": "New Rave"
+    },
+    "531": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/punk-blues/",
+        "name": "Punk Blues"
+    },
+    "532": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/electro-swing/",
+        "name": "Electro Swing"
+    },
+    "533": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neoclassical-new-age/",
+        "name": "Neoclassical New Age"
+    },
+    "534": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/country-rap/",
+        "name": "Country Rap"
+    },
+    "535": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tango/",
+        "name": "Tango"
+    },
+    "536": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/red-dirt/",
+        "name": "Red Dirt"
+    },
+    "537": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/speed-garage/",
+        "name": "Speed Garage"
+    },
+    "538": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nightcore/",
+        "name": "Nightcore"
+    },
+    "539": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bubblegum-pop/",
+        "name": "Bubblegum Pop"
+    },
+    "540": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/drumless/",
+        "name": "Drumless"
+    },
+    "541": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ambient-trance/",
+        "name": "Ambient Trance"
+    },
+    "542": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/black-noise/",
+        "name": "Black Noise"
+    },
+    "543": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sasscore/",
+        "name": "Sasscore"
+    },
+    "544": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/renaissance-music/",
+        "name": "Renaissance Music"
+    },
+    "545": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/qawwali/",
+        "name": "Qawwali"
+    },
+    "546": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mande-music/",
+        "name": "Mande Music"
+    },
+    "547": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chipmunk-soul/",
+        "name": "Chipmunk Soul"
+    },
+    "548": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/black-n-roll/",
+        "name": "Black 'n' Roll"
+    },
+    "550": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/kawaii-future-bass/",
+        "name": "Kawaii Future Bass"
+    },
+    "551": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/future-house/",
+        "name": "Future House"
+    },
+    "552": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cybergrind/",
+        "name": "Cybergrind"
+    },
+    "553": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/shibuya-kei/",
+        "name": "Shibuya-kei"
+    },
+    "554": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bass-house/",
+        "name": "Bass House"
+    },
+    "555": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/fidget-house/",
+        "name": "Fidget House"
+    },
+    "556": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/blackened-death-metal/",
+        "name": "Blackened Death Metal"
+    },
+    "557": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/zolo/",
+        "name": "Zolo"
+    },
+    "558": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/polka/",
+        "name": "Polka"
+    },
+    "559": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/phonk/",
+        "name": "Phonk"
+    },
+    "560": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/post-black-metal/",
+        "name": "Post-Black Metal"
+    },
+    "563": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ballroom/",
+        "name": "Ballroom"
+    },
+    "564": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/weightless/",
+        "name": "Weightless"
+    },
+    "565": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tread/",
+        "name": "Tread"
+    },
+    "566": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/snap/",
+        "name": "Snap"
+    },
+    "567": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/technical-thrash-metal/",
+        "name": "Technical Thrash Metal"
+    },
+    "568": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/anatolian-rock/",
+        "name": "Anatolian Rock"
+    },
+    "569": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hybrid-trap/",
+        "name": "Hybrid Trap"
+    },
+    "570": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/vaportrap/",
+        "name": "Vaportrap"
+    },
+    "571": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/new-beat/",
+        "name": "New Beat"
+    },
+    "572": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/totalism/",
+        "name": "Totalism"
+    },
+    "573": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hard-dance/",
+        "name": "Hard Dance"
+    },
+    "574": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/gorenoise/",
+        "name": "Gorenoise"
+    },
+    "575": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/indeterminacy/",
+        "name": "Indeterminacy"
+    },
+    "576": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/electric-blues/",
+        "name": "Electric Blues"
+    },
+    "577": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chicago-blues/",
+        "name": "Chicago Blues"
+    },
+    "578": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/country-blues/",
+        "name": "Country Blues"
+    },
+    "579": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-big-band/",
+        "name": "Progressive Big Band"
+    },
+    "580": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/acid-rock/",
+        "name": "Acid Rock"
+    },
+    "581": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/merseybeat/",
+        "name": "Merseybeat"
+    },
+    "582": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/british-rhythm-blues/",
+        "name": "British Rhythm & Blues"
+    },
+    "583": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/visual-kei/",
+        "name": "Visual kei"
+    },
+    "584": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/drift-phonk/",
+        "name": "Drift Phonk"
+    },
+    "585": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dembow/",
+        "name": "Dembow"
+    },
+    "586": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bachata/",
+        "name": "Bachata"
+    },
+    "587": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pluggnb/",
+        "name": "PluggnB"
+    },
+    "588": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/industrial-hardcore/",
+        "name": "Industrial Hardcore"
+    },
+    "589": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/glitch-hop-edm/",
+        "name": "Glitch Hop [EDM]"
+    },
+    "590": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/melodic-dubstep/",
+        "name": "Melodic Dubstep"
+    },
+    "591": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jersey-club/",
+        "name": "Jersey Club"
+    },
+    "593": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/baggy/",
+        "name": "Baggy"
+    },
+    "594": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/riddim/",
+        "name": "Riddim"
+    },
+    "595": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/deep-soul/",
+        "name": "Deep Soul"
+    },
+    "596": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/garage-house/",
+        "name": "Garage House"
+    },
+    "597": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/gregorian-chant/",
+        "name": "Gregorian Chant"
+    },
+    "598": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/italo-house/",
+        "name": "Italo House"
+    },
+    "599": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/zeuhl/",
+        "name": "Zeuhl"
+    },
+    "600": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mashcore/",
+        "name": "Mashcore"
+    },
+    "601": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funk-mandelao/",
+        "name": "Funk mandel\u00e3o"
+    },
+    "602": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/southern-gospel/",
+        "name": "Southern Gospel"
+    },
+    "603": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/broken-transmission/",
+        "name": "Broken Transmission"
+    },
+    "604": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/harsh-noise-wall/",
+        "name": "Harsh Noise Wall"
+    },
+    "605": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/forro/",
+        "name": "Forr\u00f3"
+    },
+    "606": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/choral/",
+        "name": "Choral"
+    },
+    "607": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/futuristic-swag/",
+        "name": "Futuristic Swag"
+    },
+    "608": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bop/",
+        "name": "Bop"
+    },
+    "609": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sigilkore/",
+        "name": "Sigilkore"
+    },
+    "610": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/freeform-hardcore/",
+        "name": "Freeform Hardcore"
+    },
+    "611": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/uptempo-hardcore/",
+        "name": "Uptempo Hardcore"
+    },
+    "612": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rawstyle/",
+        "name": "Rawstyle"
+    },
+    "613": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dark-electro/",
+        "name": "Dark Electro"
+    },
+    "614": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neurofunk/",
+        "name": "Neurofunk"
+    },
+    "615": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hardvapour/",
+        "name": "Hardvapour"
+    },
+    "616": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/j-core/",
+        "name": "J-core"
+    },
+    "617": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/picopop/",
+        "name": "Picopop"
+    },
+    "618": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/denpa/",
+        "name": "Denpa"
+    },
+    "619": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/extratone/",
+        "name": "Extratone"
+    },
+    "620": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/splittercore/",
+        "name": "Splittercore"
+    },
+    "621": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nerdcore-techno/",
+        "name": "Nerdcore Techno"
+    },
+    "622": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/frenchcore/",
+        "name": "Frenchcore"
+    },
+    "623": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/microsound/",
+        "name": "Microsound"
+    },
+    "624": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ambient-noise-wall/",
+        "name": "Ambient Noise Wall"
+    },
+    "625": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/corrido-tumbado/",
+        "name": "Corrido tumbado"
+    },
+    "626": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/deejay/",
+        "name": "Deejay"
+    },
+    "627": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sierreno/",
+        "name": "Sierre\u00f1o"
+    },
+    "628": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/lako/",
+        "name": "La\u00efko"
+    },
+    "629": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rembetika/",
+        "name": "Rembetika"
+    },
+    "630": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/greek-folk-music/",
+        "name": "Greek Folk Music"
+    },
+    "631": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/beat-bruxaria/",
+        "name": "Beat bruxaria"
+    },
+    "632": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bolero/",
+        "name": "Bolero"
+    },
+    "633": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/birdsong/",
+        "name": "Birdsong"
+    },
+    "634": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hauntology/",
+        "name": "Hauntology"
+    },
+    "635": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/akishibu-kei/",
+        "name": "Akishibu-kei"
+    },
+    "636": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/burning-spirits/",
+        "name": "Burning Spirits"
+    },
+    "637": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/space-rock-revival/",
+        "name": "Space Rock Revival"
+    },
+    "638": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/post-britpop/",
+        "name": "Post-Britpop"
+    },
+    "639": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/geek-rock/",
+        "name": "Geek Rock"
+    },
+    "640": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/impressionism/",
+        "name": "Impressionism"
+    },
+    "641": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/european-free-jazz/",
+        "name": "European Free Jazz"
+    },
+    "642": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chillout/",
+        "name": "Chillout"
+    },
+    "643": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/trancecore/",
+        "name": "Trancecore"
+    },
+    "644": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/swancore/",
+        "name": "Swancore"
+    },
+    "645": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/animal-sounds/",
+        "name": "Animal Sounds"
+    },
+    "646": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pigfuck/",
+        "name": "Pigfuck"
+    },
+    "647": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sampledelia/",
+        "name": "Sampledelia"
+    },
+    "648": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dissonant-death-metal/",
+        "name": "Dissonant Death Metal"
+    },
+    "649": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/persian-classical/",
+        "name": "Persian Classical"
+    },
+    "650": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cyber-metal/",
+        "name": "Cyber Metal"
+    },
+    "651": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/comfy-synth/",
+        "name": "Comfy Synth"
+    },
+    "652": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cosmic-black-metal/",
+        "name": "Cosmic Black Metal"
+    },
+    "653": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/slushwave/",
+        "name": "Slushwave"
+    },
+    "654": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/noisegrind/",
+        "name": "Noisegrind"
+    },
+    "655": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mallsoft/",
+        "name": "Mallsoft"
+    },
+    "656": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/death-thrash/",
+        "name": "Death-Thrash"
+    },
+    "657": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nu-metalcore/",
+        "name": "Nu-Metalcore"
+    },
+    "658": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-death-metal/",
+        "name": "Progressive Death Metal"
+    },
+    "659": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/twerk/",
+        "name": "Twerk"
+    },
+    "660": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-metalcore/",
+        "name": "Progressive Metalcore"
+    },
+    "661": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/doomgaze/",
+        "name": "Doomgaze"
+    },
+    "662": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bounce/",
+        "name": "Bounce"
+    },
+    "663": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ballet/",
+        "name": "Ballet"
+    },
+    "665": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/klezmer/",
+        "name": "Klezmer"
+    },
+    "666": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/contemporary-country/",
+        "name": "Contemporary Country"
+    },
+    "667": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/oratorio/",
+        "name": "Oratorio"
+    },
+    "668": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/martial-industrial/",
+        "name": "Martial Industrial"
+    },
+    "669": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/deathstep/",
+        "name": "Deathstep"
+    },
+    "670": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/flashcore/",
+        "name": "Flashcore"
+    },
+    "671": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hymns/",
+        "name": "Hymns"
+    },
+    "672": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chicago-drill/",
+        "name": "Chicago Drill"
+    },
+    "673": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/classical-period/",
+        "name": "Classical Period"
+    },
+    "674": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mincecore/",
+        "name": "Mincecore"
+    },
+    "675": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/moogsploitation/",
+        "name": "Moogsploitation"
+    },
+    "676": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neo-prog/",
+        "name": "Neo-Prog"
+    },
+    "677": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/epic-collage/",
+        "name": "Epic Collage"
+    },
+    "678": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/blackened-crust/",
+        "name": "Blackened Crust"
+    },
+    "679": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/d-beat/",
+        "name": "D-Beat"
+    },
+    "680": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/liquid-drum-and-bass/",
+        "name": "Liquid Drum and Bass"
+    },
+    "681": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/wave/",
+        "name": "Wave"
+    },
+    "682": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mega-funk/",
+        "name": "Mega funk"
+    },
+    "683": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/trance-metal/",
+        "name": "Trance Metal"
+    },
+    "684": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nashville-sound/",
+        "name": "Nashville Sound"
+    },
+    "685": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/mittelalter-metal/",
+        "name": "Mittelalter-Metal"
+    },
+    "686": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/korean-folk-music/",
+        "name": "Korean Folk Music"
+    },
+    "687": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neoclassical-metal/",
+        "name": "Neoclassical Metal"
+    },
+    "688": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/delta-blues/",
+        "name": "Delta Blues"
+    },
+    "689": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neocrust/",
+        "name": "Neocrust"
+    },
+    "690": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cowpunk/",
+        "name": "Cowpunk"
+    },
+    "691": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/crack-rock-steady/",
+        "name": "Crack Rock Steady"
+    },
+    "692": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jazz-poetry/",
+        "name": "Jazz Poetry"
+    },
+    "693": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/horror-punk/",
+        "name": "Horror Punk"
+    },
+    "694": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funk-150-bpm/",
+        "name": "Funk 150 bpm"
+    },
+    "695": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/queercore/",
+        "name": "Queercore"
+    },
+    "696": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funk-proibidao/",
+        "name": "Funk proibid\u00e3o"
+    },
+    "697": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/beat-poetry/",
+        "name": "Beat Poetry"
+    },
+    "698": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/psichedelia-occulta-italiana/",
+        "name": "Psichedelia occulta italiana"
+    },
+    "699": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neo-medieval-folk/",
+        "name": "Neo-Medieval Folk"
+    },
+    "700": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funk-ostentao/",
+        "name": "Funk ostenta\u00e7\u00e3o"
+    },
+    "701": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nu-style-gabber/",
+        "name": "Nu Style Gabber"
+    },
+    "702": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/poetry/",
+        "name": "Poetry"
+    },
+    "703": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/vanguarda-paulista/",
+        "name": "Vanguarda paulista"
+    },
+    "704": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funk-brasileiro/",
+        "name": "Funk brasileiro"
+    },
+    "705": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/expressionism/",
+        "name": "Expressionism"
+    },
+    "707": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/regional/",
+        "name": "Regional"
+    },
+    "708": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ghazal/",
+        "name": "Ghazal"
+    },
+    "709": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tropicanibalismo/",
+        "name": "Tropicanibalismo"
+    },
+    "710": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/serialism/",
+        "name": "Serialism"
+    },
+    "711": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hindustani-classical-music/",
+        "name": "Hindustani Classical Music"
+    },
+    "712": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/easycore/",
+        "name": "Easycore"
+    },
+    "713": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/turbo-folk/",
+        "name": "Turbo-Folk"
+    },
+    "714": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/spectralism/",
+        "name": "Spectralism"
+    },
+    "715": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/shitgaze/",
+        "name": "Shitgaze"
+    },
+    "716": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/balinese-gamelan/",
+        "name": "Balinese Gamelan"
+    },
+    "717": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dhrupad/",
+        "name": "Dhrupad"
+    },
+    "718": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/radio-drama/",
+        "name": "Radio Drama"
+    },
+    "719": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/baio/",
+        "name": "Bai\u00e3o"
+    },
+    "720": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/xote/",
+        "name": "Xote"
+    },
+    "721": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sertanejo-universitario/",
+        "name": "Sertanejo universit\u00e1rio"
+    },
+    "722": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/moda-de-viola/",
+        "name": "Moda de viola"
+    },
+    "723": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sertanejo-de-raiz/",
+        "name": "Sertanejo de raiz"
+    },
+    "724": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/axe/",
+        "name": "Ax\u00e9"
+    },
+    "725": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/frevo/",
+        "name": "Frevo"
+    },
+    "726": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/maracatu/",
+        "name": "Maracatu"
+    },
+    "727": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/vapor/",
+        "name": "Vapor"
+    },
+    "728": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/schlager/",
+        "name": "Schlager"
+    },
+    "729": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/c-pop/",
+        "name": "C-Pop"
+    },
+    "730": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bit-music/",
+        "name": "Bit Music"
+    },
+    "731": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rhythm-and-blues/",
+        "name": "Rhythm and Blues"
+    },
+    "732": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/concerto/",
+        "name": "Concerto"
+    },
+    "733": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/beat-music/",
+        "name": "Beat Music"
+    },
+    "734": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/traditional-country/",
+        "name": "Traditional Country"
+    },
+    "735": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/italo-disco/",
+        "name": "Italo-Disco"
+    },
+    "736": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/christian-liturgical-music/",
+        "name": "Christian Liturgical Music"
+    },
+    "737": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/traditional-folk-music/",
+        "name": "Traditional Folk Music"
+    },
+    "738": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/irish-folk-music/",
+        "name": "Irish Folk Music"
+    },
+    "739": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/american-folk-music/",
+        "name": "American Folk Music"
+    },
+    "740": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/kayokyoku/",
+        "name": "Kay\u014dkyoku"
+    },
+    "741": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cancion-melodica/",
+        "name": "Canci\u00f3n mel\u00f3dica"
+    },
+    "742": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/festival-progressive-house/",
+        "name": "Festival Progressive House"
+    },
+    "743": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/stand-up-comedy/",
+        "name": "Stand-Up Comedy"
+    },
+    "744": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cantopop/",
+        "name": "Cantopop"
+    },
+    "746": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/east-coast-club/",
+        "name": "East Coast Club"
+    },
+    "747": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/balkan-pop-folk/",
+        "name": "Balkan Pop-Folk"
+    },
+    "748": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/third-wave-ska/",
+        "name": "Third Wave Ska"
+    },
+    "749": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/idol-kayo/",
+        "name": "Idol kay\u014d"
+    },
+    "750": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cajun-music/",
+        "name": "Cajun Music"
+    },
+    "751": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/euro-disco/",
+        "name": "Euro-Disco"
+    },
+    "753": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/political-hip-hop/",
+        "name": "Political Hip Hop"
+    },
+    "754": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/fado/",
+        "name": "Fado"
+    },
+    "755": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/italo-pop/",
+        "name": "Italo Pop"
+    },
+    "756": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/british-dance-band/",
+        "name": "British Dance Band"
+    },
+    "757": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jewish-music/",
+        "name": "Jewish Music"
+    },
+    "758": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/portuguese-folk-music/",
+        "name": "Portuguese Folk Music"
+    },
+    "759": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/brazilian-bass/",
+        "name": "Brazilian Bass"
+    },
+    "760": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/uk-hardcore/",
+        "name": "UK Hardcore"
+    },
+    "761": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/traditional-doom-metal/",
+        "name": "Traditional Doom Metal"
+    },
+    "763": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/vocal-trance/",
+        "name": "Vocal Trance"
+    },
+    "764": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dabke/",
+        "name": "Dabke"
+    },
+    "765": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/opm/",
+        "name": "OPM"
+    },
+    "766": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/girl-group/",
+        "name": "Girl Group"
+    },
+    "767": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/soviet-estrada/",
+        "name": "Soviet Estrada"
+    },
+    "768": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/turkish-pop/",
+        "name": "Turkish Pop"
+    },
+    "769": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/medieval/",
+        "name": "Medieval Classical Music"
+    },
+    "770": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chalga/",
+        "name": "Chalga"
+    },
+    "771": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ratchet-music/",
+        "name": "Ratchet Music"
+    },
+    "772": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/east-asian-classical-music/",
+        "name": "East Asian Classical Music"
+    },
+    "773": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/uk-hard-house/",
+        "name": "UK Hard House"
+    },
+    "774": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/livetronica/",
+        "name": "Livetronica"
+    },
+    "775": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/peak-time-techno/",
+        "name": "Peak Time Techno"
+    },
+    "776": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sound-effects/",
+        "name": "Sound Effects"
+    },
+    "777": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/lied/",
+        "name": "Lied"
+    },
+    "778": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hi-nrg/",
+        "name": "Hi-NRG"
+    },
+    "779": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/honky-tonk/",
+        "name": "Honky Tonk"
+    },
+    "780": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nouvelle-chanson-franaise/",
+        "name": "Nouvelle Chanson Fran\u00e7aise"
+    },
+    "781": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jump-up/",
+        "name": "Jump-Up"
+    },
+    "782": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ghetto-house/",
+        "name": "Ghetto House"
+    },
+    "783": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/interview/",
+        "name": "Interview"
+    },
+    "784": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/slap-house/",
+        "name": "Slap House"
+    },
+    "785": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/volkstmliche-musik/",
+        "name": "Volkst\u00fcmliche Musik"
+    },
+    "786": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/levenslied/",
+        "name": "Levenslied"
+    },
+    "787": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/highlife/",
+        "name": "Highlife"
+    },
+    "788": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/sample-drill/",
+        "name": "Sample Drill"
+    },
+    "789": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hard-techno/",
+        "name": "Hard Techno"
+    },
+    "790": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/brega/",
+        "name": "Brega"
+    },
+    "791": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rocksteady/",
+        "name": "Rocksteady"
+    },
+    "792": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/country-gospel/",
+        "name": "Country Gospel"
+    },
+    "793": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/freestyle/",
+        "name": "Freestyle"
+    },
+    "794": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/arabic-pop/",
+        "name": "Arabic Pop"
+    },
+    "795": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/enka/",
+        "name": "Enka"
+    },
+    "796": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/praise-worship/",
+        "name": "Praise & Worship"
+    },
+    "797": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hands-up/",
+        "name": "Hands Up"
+    },
+    "798": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nederpop/",
+        "name": "Nederpop"
+    },
+    "799": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/deep-tech/",
+        "name": "Deep Tech"
+    },
+    "800": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chicago-soul/",
+        "name": "Chicago Soul"
+    },
+    "801": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/carnatic-classical-music/",
+        "name": "Carnatic Classical Music"
+    },
+    "802": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/celtic-rock/",
+        "name": "Celtic Rock"
+    },
+    "803": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/ashkenazi-music/",
+        "name": "Ashkenazi Music"
+    },
+    "804": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/darkstep/",
+        "name": "Darkstep"
+    },
+    "805": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/philly-soul/",
+        "name": "Philly Soul"
+    },
+    "806": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dark-plugg/",
+        "name": "Dark Plugg"
+    },
+    "807": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/rominimal/",
+        "name": "Rominimal"
+    },
+    "808": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dark-psytrance/",
+        "name": "Dark Psytrance"
+    },
+    "809": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/freetekno/",
+        "name": "Freetekno"
+    },
+    "810": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pornogrind/",
+        "name": "Pornogrind"
+    },
+    "811": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/v-pop/",
+        "name": "V-Pop"
+    },
+    "812": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/pub-rock/",
+        "name": "Pub Rock"
+    },
+    "813": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dirty-south/",
+        "name": "Dirty South"
+    },
+    "814": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/canzone-dautore/",
+        "name": "Canzone d'autore"
+    },
+    "815": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/barber-beats/",
+        "name": "Barber Beats"
+    },
+    "816": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/melodic-techno/",
+        "name": "Melodic Techno"
+    },
+    "817": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/new-york-drill/",
+        "name": "New York Drill"
+    },
+    "818": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/chanson-texte/",
+        "name": "Chanson \u00e0 texte"
+    },
+    "819": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/liedermacher/",
+        "name": "Liedermacher"
+    },
+    "820": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/bassline/",
+        "name": "Bassline"
+    },
+    "821": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/euphoric-hardstyle/",
+        "name": "Euphoric Hardstyle"
+    },
+    "822": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dariacore/",
+        "name": "Dariacore"
+    },
+    "823": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/acid-trance/",
+        "name": "Acid Trance"
+    },
+    "824": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/british-folk-rock/",
+        "name": "British Folk Rock"
+    },
+    "825": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/boogie-rock/",
+        "name": "Boogie Rock"
+    },
+    "826": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/japanese-folk-music/",
+        "name": "Japanese Folk Music"
+    },
+    "827": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jazz-manouche/",
+        "name": "Jazz manouche"
+    },
+    "828": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/techstep/",
+        "name": "Techstep"
+    },
+    "829": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/funk-de-bh/",
+        "name": "Funk de BH"
+    },
+    "830": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/tone-poem/",
+        "name": "Tone Poem"
+    },
+    "831": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/lolicore/",
+        "name": "Lolicore"
+    },
+    "832": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/norteo/",
+        "name": "Norte\u00f1o"
+    },
+    "833": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/melodic-house/",
+        "name": "Melodic House"
+    },
+    "834": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/progressive-breaks/",
+        "name": "Progressive Breaks"
+    },
+    "835": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hyphy/",
+        "name": "Hyphy"
+    },
+    "836": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/dancefloor-drum-and-bass/",
+        "name": "Dancefloor Drum and Bass"
+    },
+    "837": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/cabaret/",
+        "name": "Cabaret"
+    },
+    "838": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/vaudeville/",
+        "name": "Vaudeville"
+    },
+    "839": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/neue-deutsche-welle/",
+        "name": "Neue Deutsche Welle"
+    },
+    "840": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/piano-blues/",
+        "name": "Piano Blues"
+    },
+    "841": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/math-pop/",
+        "name": "Math Pop"
+    },
+    "842": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/indie-surf/",
+        "name": "Indie Surf"
+    },
+    "843": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/digital-fusion/",
+        "name": "Digital Fusion"
+    },
+    "844": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/jerk/",
+        "name": "Jerk"
+    },
+    "845": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/makina/",
+        "name": "Makina"
+    },
+    "846": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/afro-house/",
+        "name": "Afro House"
+    },
+    "847": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/midtempo-bass/",
+        "name": "Midtempo Bass"
+    },
+    "848": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/hip-hop-soul/",
+        "name": "Hip Hop Soul"
+    },
+    "849": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/vaudeville-blues/",
+        "name": "Vaudeville Blues"
+    },
+    "850": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/future-rave/",
+        "name": "Future Rave"
+    },
+    "851": {
+        "best_albums_page": "https://www.albumoftheyear.org/ratings/user-highest-rated/all/nerdcore-hip-hop/",
+        "name": "Nerdcore Hip Hop"
+    }
+}

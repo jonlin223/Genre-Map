@@ -1,3 +1,5 @@
+INDEX_SRC = "./data/index.json"
+
 def genre_id_from_href(href: str) -> int:
     """
     Extract a genre_id from an AOTY href. For example, input of '/genre/38-synthpop/'

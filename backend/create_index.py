@@ -4,8 +4,6 @@ import requests
 from typing import Dict
 import utils
 
-# TODO Finish
-
 def get_genres(genre_dict: Dict):
     page = requests.get("https://www.albumoftheyear.org/genre.php", headers={'User-Agent': 'Mozilla/5.0'})
 
@@ -49,6 +47,6 @@ if __name__ == "__main__":
     genre_dict = {}
     get_genres(genre_dict)
 
-    with open('./data/index.json', 'w') as f:
+    with open(utils.INDEX_SRC, 'w') as f:
         json.dump(genre_dict, f, sort_keys=True, indent=4)
     

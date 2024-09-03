@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "jsx": "react",
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "lib": [
+            "DOM",
+            "ESNext"
+        ],
+        "strict": true,
+        "sourceMap": true,
+        "target": "ESNext",
+        "forceConsistentCasingInFileNames": true,
+        "allowSyntheticDefaultImports": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

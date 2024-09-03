@@ -68,8 +68,8 @@ def scrape_albums(album_set: Set, url: str):
 if __name__ == "__main__":
     album_set = set()
 
+    # This is the code used to generate basic.json
     album_genres = scrape_albums(album_set, "https://www.albumoftheyear.org/ratings/user-highest-rated/all/synthpop/1/")
-
     with open('./data/basic.json', 'w') as f:
         json.dump(album_genres, f, indent=4)
 

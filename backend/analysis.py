@@ -38,7 +38,7 @@ def get_nodes(data_src: str):
             if genre_id not in nodes:
                 nodes[genre_id] = index[str(genre_id)]['name']
         
-    return [{'id': id, 'label': label} for (id, label) in nodes.items()]
+    return [{'id': str(id), 'label': label} for (id, label) in nodes.items()]
 
 def get_edges(data_src: str):
     edges = {}
@@ -67,7 +67,7 @@ def get_edges(data_src: str):
         for key in sub_sub:
             edges[key] = edges.get(key, 0) + 0.25 """
     
-    return [{'source': id1, 'target': id2, 'id': f"{id1}-{id2}", 'size': weight} for ((id1, id2), weight) in edges.items()]
+    return [{'source': str(id1), 'target': str(id2), 'id': f"{id1}-{id2}", 'size': weight} for ((id1, id2), weight) in edges.items()]
 
 
 if __name__ == "__main__":

@@ -2,11 +2,13 @@ from bs4 import BeautifulSoup
 import json
 import requests
 from typing import Dict, List, Set
+
+from my_types import AlbumGenre
 import utils
 
 # Think about using this https://reagraph.dev/?path=/docs/docs-intro--docs
 
-def scrape_album(album_id: int) -> Dict[str, List[int]]:
+def scrape_album(album_id: int) -> AlbumGenre:
     """
     Scrape genres and sub-genres from an album's AOTY page. Album page should be inputted as its AOTY album_id. For example, 
     https://www.albumoftheyear.org/album/1012480-magdalena-bay-imaginal-disk.php has the id 1012480.
@@ -37,7 +39,7 @@ def scrape_album(album_id: int) -> Dict[str, List[int]]:
     
     return {'main_genres': main_genres, 'sub_genres': sub_genres}
 
-def scrape_albums(album_set: Set, url: str):
+def scrape_albums(album_set: Set, url: str) -> List[AlbumGenre]:
     """
     Scrape albums from AOTY page for best {genre} albums of all time by user score.
     Does not scrape albums whose id are already in the album_set. album_set is updated as this function runs.

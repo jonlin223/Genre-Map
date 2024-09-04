@@ -16,8 +16,6 @@ def scrape_album(album_id: int) -> AlbumGenre:
     Output is formatted as a dictionary with the format: {'main_genres': [int], 'sub_genres': [int]}
     """
 
-    # TODO typing of return value
-
     page = requests.get(f"https://www.albumoftheyear.org/album/{album_id}", headers={'User-Agent': 'Mozilla/5.0'})
 
     soup = BeautifulSoup(page.content, "html.parser")
@@ -47,8 +45,6 @@ def scrape_albums(album_set: Set, url: str) -> List[AlbumGenre]:
     Returns a list of {TODO}
     """
 
-    # TODO typing of return value
-
     page = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
 
     soup = BeautifulSoup(page.content, "html.parser")
@@ -67,12 +63,39 @@ def scrape_albums(album_set: Set, url: str) -> List[AlbumGenre]:
     
     return albums
 
+def scrape_genre(album_set: Set, url: str) -> List[AlbumGenre]:
+    """
+    Scrapes all the albums (that have enough reviews) from a genre's User Highest Rated page
+    """
+
+    page = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
+    soup = BeautifulSoup(page.content, "html.parser")
+    
+    page_select = soup.find('div', class_='pageSelectRow')
+    
+    if page_select is not None:
+        select_buttons = page_select.find_all('div', class_='pageSelectSmall')
+    
+    last_page = int(select_buttons[-1].text)
+    
+    albums = []
+    for i in range(1, last_page + 1):
+        albums += scrape_albums(album_set, f"{url}{i}/")
+        print(f"Finished scraping page {i}")
+    
+    return albums
+
 if __name__ == "__main__":
     album_set = set()
 
     # This is the code used to generate basic.json
-    album_genres = scrape_albums(album_set, "https://www.albumoftheyear.org/ratings/user-highest-rated/all/synthpop/1/")
+    """ album_genres = scrape_albums(album_set, "https://www.albumoftheyear.org/ratings/user-highest-rated/all/synthpop/1/")
     with open('./data/basic.json', 'w') as f:
-        json.dump(album_genres, f, indent=4)
+        json.dump(album_genres, f, indent=4) """
+    
+    # This is the code used to generate intermediate.json
+    album_genres = scrape_genre(album_set, "https://www.albumoftheyear.org/ratings/user-highest-rated/all/synthpop/")
+    with open('./data/intermediate.json', 'w') as f:
+        json.dump(album_genres, f)
 
     # print(scrape_album(1012480))

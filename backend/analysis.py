@@ -13,8 +13,6 @@ import utils
         # Link with a subgenre worth 0.5
     # For each subgenre, create a link with all other subgenres (since links with main genres already handled above)
         # Link with anoter subgenre worth 0.25
-    # TODO devise a format where there is a weight scaled off proportion of albums with a particular genre
-        # right now not dealing with proportions
 
 # Output format
     # {(genre_id_1, genre_id_2): weight} -> List of {source: id1, target: id2, id: 'id1-id2', size} -> EDGES
@@ -96,8 +94,8 @@ def get_edges(data_src: str):
         for key in main_sub:
             edges[key] = edges.get(key, 0) + 0.5
         
-        # TODO think about weights, what sort of combinations we should allow
         # For now, skipping subgenre to subgenre combinations
+        # TODO think about this further
         """ sub_sub = itertools.combinations(sub_genres_sorted, 2)
         for key in sub_sub:
             edges[key] = edges.get(key, 0) + 0.25 """
@@ -111,11 +109,11 @@ def get_edges(data_src: str):
 
 
 if __name__ == "__main__":
-    nodes = get_nodes("./data/basic.json")
+    nodes = get_nodes("./data/intermediate.json")
     with open("./data/nodes.json", "w") as f:
-        json.dump(nodes, f, indent=2)
+        json.dump(nodes, f)
 
-    edges = get_edges("./data/basic.json")
+    edges = get_edges("./data/intermediate.json")
     with open("./data/edges.json", "w") as f:
-        json.dump(edges, f, indent=2)
+        json.dump(edges, f)
     

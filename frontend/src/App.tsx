@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import { GraphCanvas, GraphCanvasRef, useSelection } from 'reagraph';
+import { darkTheme, GraphCanvas, GraphCanvasRef, useSelection } from 'reagraph';
 import { edges, nodes } from "./values";
 
 const App = () => {
@@ -20,6 +20,7 @@ const App = () => {
   return (
     <div>
       <GraphCanvas
+        theme={darkTheme}
         ref={graphRef}
         edgeArrowPosition="none"
         nodes={nodes}
